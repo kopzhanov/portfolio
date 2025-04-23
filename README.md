@@ -41,7 +41,7 @@ Direct is an application to track status of interns, since the company mostly us
 
 # Freedom Hackathon
 
-A company asked to bring a solution to help HR department utilize old CVs using AI. We had 12 hours, and I was doing front-part.
+A company asked to bring a solution to help HR department utilize old CVs using AI. I did the front-part(iOS App).
 
 <p align="center">
   <img width="200" src="https://github.com/kopzhanov/portfolio/blob/main/assets/hackathon/demo.gif" />
