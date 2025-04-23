@@ -38,3 +38,11 @@ Direct is an application to track status of interns, since the company mostly us
 * Authorization
 * Figma
 * API calls
+
+# Freedom Hackathon
+
+A company asked to bring a solution to help HR department utilize old CVs using AI. We had 12 hours, and I was doing front-part.
+
+<p align="center">
+  <img width="200" src="https://github.com/kopzhanov/portfolio/blob/main/assets/hackathon/demo.gif" />
+</p>
